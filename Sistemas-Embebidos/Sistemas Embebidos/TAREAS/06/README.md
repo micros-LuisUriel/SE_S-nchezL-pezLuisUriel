@@ -1,10 +1,10 @@
-Tarea Número 06
+#Tarea Número 06
 
-Sistemas Embebidos
+##Sistemas Embebidos
 
-Menú básico 
+###Menú básico 
 
-Luis Uriel Sánchez López
+####Luis Uriel Sánchez López
 
 Realizado por el equipo 04: Hernández Reyes Roberto Saul Sánchez López Luis Uriel Velásquez Reyes Román Gabriel
 
