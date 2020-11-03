@@ -1,20 +1,10 @@
-# Tarea Número 06
-## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
-### Sergio Francisco Hernández Machuca
-###Sánchez López Luis Uriel
-En esta sección se encuentra lo relacionado con Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+Tarea Número 06
+Sistemas Embebidos
+Menú básico en PC
+Román Gabriel Velásquez Reyes
+Realizado por el equipo 04: Hernández Reyes Roberto Saul Sánchez López Luis Uriel Velásquez Reyes Román Gabriel
 
-Continúa con con el tratamiento de los Sensores:
-1. Definición
-2. Características
-3. Clasificación según el principio físico de funcionamiento
-4. Clasificación según tipo de señal que entregan
-5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
+Se diseño una aplicación de menú que permite desplegar diferentes opciones mediante el uso de la librería “MD_UISwitch Library y MD_Menu”, adecuamos la interfaz para realizar acciones por medio de botones y mostrar datos como temperatura y leer el valor analógico de un pot.
 
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
+Existen 2 aplicaciones, una en la que utilizamos una cominucación por medio de I2C y otra que no lo utiliza, se encuentra el codigo para cada adaptación, además de que llevo acabo el circuito en fisico, presentando condiciones satisfactorias por parte del equipo.
+
