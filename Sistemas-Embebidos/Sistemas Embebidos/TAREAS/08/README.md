@@ -1,6 +1,6 @@
 # Tarea Número 08
 ## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
+## Codigo
 ### Sergio Francisco Hernández Machuca
 ###Sánchez López Luis Uriel
 
