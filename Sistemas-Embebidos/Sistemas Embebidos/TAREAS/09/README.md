@@ -1,7 +1,8 @@
 # Tarea Número 09
 ## Sistemas de Tiempo Real
 ## Codigo 
-### Sergio Francisco Hernández MachucaE###Luis Uriel Sánchez López
+### Sergio Francisco Hernández Machuca
+### Luis Uriel Sánchez López
 
 
 Sistemas Operativos de Tiempo Real. Estudio de las variantes que existen (como plataformas, bibliotecas, apoyos y soportes) para la plataforma Arduino.  FreeRTOS. Instalación y simulación de ejemplos
