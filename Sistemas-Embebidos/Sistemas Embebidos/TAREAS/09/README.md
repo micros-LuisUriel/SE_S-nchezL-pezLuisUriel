@@ -1,6 +1,6 @@
 # Tarea Número 09
 ## Sensores y Actuadores
-## Presentación en diapositivas / mapa mental / 
+## Codigo 
 ### Sergio Francisco Hernández Machuca
 ###Sánchez López Luis Uriel
 En esta sección se encuentra lo relacionado con Sensores:
@@ -16,5 +16,3 @@ Continúa con con el tratamiento de los Sensores:
 3. Clasificación según el principio físico de funcionamiento
 4. Clasificación según tipo de señal que entregan
 5. Clasificación por el tipo de bus que usan (IIC, SPI, Serial, Otro)
-
-Esta tarea se entregó el día 23 de septiembre del 2020, año del Covid-19.
