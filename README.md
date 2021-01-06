@@ -1,2 +1,2 @@
 # SE_S-nchezL-pezLuisUriel
-Aquí subire mis actividades de la materia de Sistemas Embebidos 
+Repositorio principal de información de la EE de Sistemas Embebidos Luis Uriel Sánchez López 
